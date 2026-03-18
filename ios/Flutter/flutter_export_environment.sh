@@ -1,7 +1,7 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
 export "FLUTTER_ROOT=C:\Users\zoila\flutter"
-export "FLUTTER_APPLICATION_PATH=C:\Users\zoila\fixnow"
+export "FLUTTER_APPLICATION_PATH=C:\Users\zoila\Frontend-1"
 export "COCOAPODS_PARALLEL_CODE_SIGN=true"
 export "FLUTTER_TARGET=lib\main.dart"
 export "FLUTTER_BUILD_DIR=build"

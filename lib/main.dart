@@ -14,6 +14,7 @@ void main() {
     // El MultiProvider es el encargado de "inyectar" todos tus archivos de lógica
     MultiProvider(
       providers: [
+        
         ChangeNotifierProvider(create: (_) => AuthProvider()),
         ChangeNotifierProvider(create: (_) => SolicitudProvider()),
         ChangeNotifierProvider(create: (_) => TecnicoProvider()),
